@@ -4,10 +4,10 @@ public class Main {
 
     public static void main(String[] args) {
 
-//        System.out.println(sumDigits(999999));
-//        System.out.println(sumDigits(3498759));
-//        System.out.println(sumDigits(-34));
-//        System.out.println(sumDigits(234));
+        System.out.println(sumDigits(999999));
+        System.out.println(sumDigits(3498759));
+        System.out.println(sumDigits(-34));
+        System.out.println(sumDigits(234));
 
 
         System.out.println(isPalindrome(-222));
